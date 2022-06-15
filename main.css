@@ -1,0 +1,63 @@
+body{
+    background-color: #999;
+}
+
+h1{
+    color: #fff;
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box{
+    background-color: #000;
+    margin: 0 auto;
+    padding: 20px;
+    width: 300;
+}
+
+#num{
+    color: #fff;
+    font-family: serif;
+    font-size: 55px;
+    height: 70px;
+    line-height: 70px;
+    margin: center;
+}
+
+.buttons{
+    margin: 10px ayto;
+    text-align: center;
+}
+
+.byn{
+    background-color: #eee;
+    border: 0;
+    cursor: pointer;
+    width: 100px;
+    padding: 10px 0;
+}
+
+#lower{
+    background-color: #ccf;
+}
+#lower:hover{
+    background-color: #eef;
+}
+#higher{
+    background-color: #fcc;
+}
+#higher:hover{
+    background-color: #fee;
+}
+
+p{
+    color: #fff;
+    font-size: 13px;
+    margin: 0;
+    text-align: center;
+}
+
+#end {
+    color: #f00;
+}
